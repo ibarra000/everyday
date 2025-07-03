@@ -1,0 +1,1 @@
+Figlet Welcome Art - Made a welcome screen for the user to be see when they open the application/make a command call to request a new project.

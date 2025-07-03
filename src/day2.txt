@@ -1,0 +1,2 @@
+Ollama Idea Generation - Utilizing the Ollama AI Model, along with the history & the users request of the day, to generate a new python coding project idea.
+
